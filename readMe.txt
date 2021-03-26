@@ -30,3 +30,5 @@ B. I only know Java so far.
 jNotes was developed on March 25, 2021.
 
 Just in case, I'll provide the JDK installers for both systems with the files.
+
+NOTE: JDK only comes with the .zip release if you're on GitHub.
