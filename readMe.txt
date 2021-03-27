@@ -21,11 +21,7 @@ shortcut for Windows. Open the open shortcut for your OS to launch jNotes.
 
 and/or the newest JDK (Java Development Kit) to run jNotes because the
 
-program is written in Java, because:
-
-A. Java is fast.
-
-B. I only know Java so far.
+program is written in Java, because Java is fast.
 
 jNotes was developed on March 25, 2021.
 
